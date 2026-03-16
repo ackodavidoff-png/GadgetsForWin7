@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>My Gadget</name>
+  <namespace>MyCompany</namespace>
+  <version>1.0</version>
+  <author name="Your Name" />
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" src="index.html" />
+    </host>
+  </hosts>
+</gadget>

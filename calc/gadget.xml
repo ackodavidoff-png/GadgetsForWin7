@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>калкулатор</name>
+  <namespace>Експериментален</namespace>
+  <version>1.0.А</version>
+  <author name="автор" />
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" src="index.html" />
+    </host>
+  </hosts>
+</gadget>
