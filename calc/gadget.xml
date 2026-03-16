@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <gadget>
-  <name>калкулатор</name>
-  <namespace>Експериментален</namespace>
+  <name>Calculator</name>
+  <namespace>experimental</namespace>
   <version>1.0</version>
-  <author name="автор" />
+  <author name="author" />
   <hosts>
     <host name="sidebar">
       <base type="HTML" src="index.html" />
