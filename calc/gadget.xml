@@ -2,7 +2,7 @@
 <gadget>
   <name>калкулатор</name>
   <namespace>Експериментален</namespace>
-  <version>1.0.А</version>
+  <version>1.0</version>
   <author name="автор" />
   <hosts>
     <host name="sidebar">
